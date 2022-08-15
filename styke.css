@@ -1,0 +1,27 @@
+* {
+    background-color: #8b93a0;
+}
+img {
+    margin: auto;
+    display: block;
+}
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul,ol,li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 5px solid #555
+}
+div {
+    text-align: center;
+}
